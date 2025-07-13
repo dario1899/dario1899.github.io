@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
 import ImageDetail from './ImageDetail';
 import becsImage from './img/becs.jpeg';
 import ronaldoImage from './img/ronaldo-gruby.jpg';

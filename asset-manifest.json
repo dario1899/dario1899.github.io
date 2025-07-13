@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/versusy-test1/static/css/main.e298bdf7.css",
-    "main.js": "/versusy-test1/static/js/main.62838d68.js",
-    "static/js/453.9740731d.chunk.js": "/versusy-test1/static/js/453.9740731d.chunk.js",
-    "static/media/ronaldo-gruby.jpg": "/versusy-test1/static/media/ronaldo-gruby.b74f01b01fcbc40bf611.jpg",
-    "static/media/becs.jpeg": "/versusy-test1/static/media/becs.df8d15a5f7ec6167448c.jpeg",
-    "index.html": "/versusy-test1/index.html",
-    "main.e298bdf7.css.map": "/versusy-test1/static/css/main.e298bdf7.css.map",
-    "main.62838d68.js.map": "/versusy-test1/static/js/main.62838d68.js.map",
-    "453.9740731d.chunk.js.map": "/versusy-test1/static/js/453.9740731d.chunk.js.map"
+    "main.css": "/static/css/main.e298bdf7.css",
+    "main.js": "/static/js/main.5a25e632.js",
+    "static/js/453.9740731d.chunk.js": "/static/js/453.9740731d.chunk.js",
+    "static/media/ronaldo-gruby.jpg": "/static/media/ronaldo-gruby.b74f01b01fcbc40bf611.jpg",
+    "static/media/becs.jpeg": "/static/media/becs.df8d15a5f7ec6167448c.jpeg",
+    "index.html": "/index.html",
+    "main.e298bdf7.css.map": "/static/css/main.e298bdf7.css.map",
+    "main.5a25e632.js.map": "/static/js/main.5a25e632.js.map",
+    "453.9740731d.chunk.js.map": "/static/js/453.9740731d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e298bdf7.css",
-    "static/js/main.62838d68.js"
+    "static/js/main.5a25e632.js"
   ]
 }

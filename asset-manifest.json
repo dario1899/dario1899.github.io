@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/versusy-test1/static/css/main.e298bdf7.css",
+    "main.js": "/versusy-test1/static/js/main.cd42cd61.js",
+    "static/js/453.9740731d.chunk.js": "/versusy-test1/static/js/453.9740731d.chunk.js",
+    "static/media/ronaldo-gruby.jpg": "/versusy-test1/static/media/ronaldo-gruby.b74f01b01fcbc40bf611.jpg",
+    "static/media/becs.jpeg": "/versusy-test1/static/media/becs.df8d15a5f7ec6167448c.jpeg",
+    "index.html": "/versusy-test1/index.html",
+    "main.e298bdf7.css.map": "/versusy-test1/static/css/main.e298bdf7.css.map",
+    "main.cd42cd61.js.map": "/versusy-test1/static/js/main.cd42cd61.js.map",
+    "453.9740731d.chunk.js.map": "/versusy-test1/static/js/453.9740731d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e298bdf7.css",
+    "static/js/main.cd42cd61.js"
+  ]
+}
